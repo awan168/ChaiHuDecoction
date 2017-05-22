@@ -1,0 +1,96 @@
+<!-- 1. 乾為天 乾.元.亨.利.貞. -->
+[main] 柴胡劑
+
+[symptom] 容易疲累
+[symptom] 全身倦怠
+[symptom] 口苦
+[symptom] 口乾
+[symptom] 食慾不振
+[symptom] 眩暈
+[symptom] 嘔心想吐
+[symptom] 頭痛
+[symptom] 咳嗽
+[symptom] 自汗
+[symptom] 胸口悶
+[symptom] 肚子痛
+[symptom] 腹脹
+[symptom] 手腳冰冷
+[symptom] 腹瀉
+[symptom] 便祕
+[symptom] 體重一向過輕
+[symptom] 心悸
+[symptom] 耳嗚
+[symptom] 發熱
+[symptom] 心煩
+[symptom] 抑鬱
+[symptom] 氣逆
+[symptom] 胸脅苦滿
+[symptom] 小便黃
+[symptom] 小便短赤
+[symptom] 多夢
+[symptom] 惡夢
+[symptom] 心慌
+[symptom] 全身浮腫
+[symptom] 潮熱
+[symptom] 往來寒熱
+[symptom] 月經期感冒
+[symptom] 弦脈
+[symptom] 數脈
+[symptom] 細脈
+[symptom] 滑脈
+[symptom] 舌苔白
+[symptom] 舌苔黃
+[symptom] 舌質暗
+[symptom] 黃疸
+[symptom] 肥胖
+[symptom] 嚴重精神病變
+[symptom] 關節疼痛
+[symptom] 心下壓痛
+[symptom] 肋下壓痛
+[symptom] 臍旁壓痛
+[symptom] 浮脈
+[symptom] 惡寒
+[symptom] 臍腹動悸
+[symptom] 小便不利
+[symptom] 夜間盜汗
+[symptom] 面色紅
+[symptom] 一身盡重
+[symptom] 呼吸困難短氣
+[symptom] 經痛
+[symptom] 月經不調
+[symptom] 失眠
+[symptom] 但頭汗出
+
+
+
+[formula]小柴胡湯
+[formula]大柴胡湯
+[formula]柴胡桂枝湯
+[formula]柴胡桂枝乾薑湯
+[formula]柴胡加龍骨牡蠣湯
+[formula]四逆散
+[formula]逍遙散
+[formula]加味逍遙散
+
+
+[note]小柴胡湯 170
+[note]大柴胡湯 163
+[note]柴胡桂枝湯 164
+[note]柴胡桂枝乾薑湯 198
+[note]柴胡加龍骨牡蠣湯 95
+[note]四逆散 14
+[note]逍遙散 173
+[note]加味逍遙散 174
+
+
+[table]小柴胡湯            1 1 3 3 3 2 3 1 1 1 1 1 2 1 1 0 1 1 2 3 2 2 1 3 1 0 1 1 1 1 1 3 3 3 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+[table]大柴胡湯            0 0 1 0 3 2 2 1 1 1 2 2 3 0 1 3 0 2 1 2 2 2 1 3 2 2 0 0 0 2 1 2 0 3 2 0 2 0 1 0 3 3 0 0 3 3 0 0 0 0 0 0 0 0 0 0 0 0 0 
+[table]柴胡桂枝湯          3 3 2 1 3 2 2 1 1 3 1 3 1 3 1 0 1 1 1 2 2 3 3 3 2 0 0 0 0 1 1 3 0 3 2 3 2 3 0 0 3 3 0 3 0 2 0 3 3 0 0 0 0 0 2 0 0 0 0 
+[table]柴胡桂枝乾薑湯      3 3 0 3 0 3 0 2 3 3 2 0 0 0 2 0 0 0 3 0 3 3 0 3 0 0 3 0 3 0 0 3 0 3 0 3 0 2 0 0 0 0 3 0 0 3 0 0 0 3 0 3 0 0 0 0 0 3 0 
+[table]柴胡加龍骨牡蠣湯    3 3 0 0 1 3 0 3 0 3 3 0 1 0 0 3 0 3 2 0 3 3 0 4 0 0 3 1 3 0 0 0 0 3 0 3 3 2 2 0 0 0 4 0 0 2 0 0 0 3 3 0 2 3 0 0 0 3 3 
+[table]四逆散              0 0 1 1 0 0 0 0 0 0 3 3 3 5 0 4 0 2 0 0 1 1 0 3 0 0 0 0 3 0 0 0 0 3 0 0 0 0 0 2 0 0 0 0 1 2 2 0 0 0 0 0 0 0 0 0 0 0 0 
+[table]逍遙散              0 0 0 0 3 1 2 2 0 0 0 3 3 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 3 3 3 0 3 0 0 0 2 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 3 3 3 0 
+[table]加味逍遙散          0 0 0 0 3 1 2 3 0 0 0 3 3 0 0 0 0 0 0 3 3 3 0 3 0 3 0 0 0 3 3 3 0 3 0 0 0 2 0 0 0 0 1 0 0 3 0 0 0 0 0 0 3 0 0 3 3 3 0 
+
+
+
